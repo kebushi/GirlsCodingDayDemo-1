@@ -11,7 +11,7 @@
 
 /*id选择器：这里使用#post的方式选中具有id属性值为post的元素，添加样式，改变它的背景色为白色, 边框为绿色点线*/
 #post{
-  border: 5px solid red;
+  border: 5px solid pink;
   background-color: #FFF;
   width:960px;
 }
